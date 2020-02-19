@@ -1,5 +1,5 @@
 public interface Transportation {
-    public abstract String chooseTransportation();
+    public abstract String getTransportation();
 
     public abstract int price();
 }

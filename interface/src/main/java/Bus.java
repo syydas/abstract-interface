@@ -1,6 +1,6 @@
 public class Bus implements Transportation {
     @Override
-    public String chooseTransportation() {
+    public String getTransportation() {
         return "Bus";
     }
 

@@ -1,6 +1,6 @@
 public class SelfDriving implements Transportation {
     @Override
-    public String chooseTransportation() {
+    public String getTransportation() {
         return "Self-driving";
     }
 
